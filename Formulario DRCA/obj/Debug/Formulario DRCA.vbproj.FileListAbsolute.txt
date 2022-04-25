@@ -1,0 +1,13 @@
+C:\Users\jimenachoxom\source\repos\Formulario DRCA\Formulario DRCA\bin\Debug\Formulario DRCA.exe.config
+C:\Users\jimenachoxom\source\repos\Formulario DRCA\Formulario DRCA\bin\Debug\Formulario DRCA.exe
+C:\Users\jimenachoxom\source\repos\Formulario DRCA\Formulario DRCA\bin\Debug\Formulario DRCA.pdb
+C:\Users\jimenachoxom\source\repos\Formulario DRCA\Formulario DRCA\bin\Debug\Formulario DRCA.xml
+C:\Users\jimenachoxom\source\repos\Formulario DRCA\Formulario DRCA\obj\Debug\Formulario DRCA.vbprojAssemblyReference.cache
+C:\Users\jimenachoxom\source\repos\Formulario DRCA\Formulario DRCA\obj\Debug\Formulario_DRCA.Form1.resources
+C:\Users\jimenachoxom\source\repos\Formulario DRCA\Formulario DRCA\obj\Debug\Formulario_DRCA.Resources.resources
+C:\Users\jimenachoxom\source\repos\Formulario DRCA\Formulario DRCA\obj\Debug\Formulario DRCA.vbproj.GenerateResource.cache
+C:\Users\jimenachoxom\source\repos\Formulario DRCA\Formulario DRCA\obj\Debug\Formulario DRCA.vbproj.CoreCompileInputs.cache
+C:\Users\jimenachoxom\source\repos\Formulario DRCA\Formulario DRCA\obj\Debug\Formulario DRCA.exe
+C:\Users\jimenachoxom\source\repos\Formulario DRCA\Formulario DRCA\obj\Debug\Formulario DRCA.xml
+C:\Users\jimenachoxom\source\repos\Formulario DRCA\Formulario DRCA\obj\Debug\Formulario DRCA.pdb
+C:\Users\jimenachoxom\source\repos\Formulario DRCA\Formulario DRCA\obj\Debug\Formulario_DRCA.FormReporte.resources
